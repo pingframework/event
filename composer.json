@@ -16,7 +16,7 @@
   ],
   "require": {
     "php": ">=8.1",
-    "pingframework/boot": "^0.2",
+    "pingframework/boot": "*",
     "league/event": "^3.0"
   },
   "require-dev": {
